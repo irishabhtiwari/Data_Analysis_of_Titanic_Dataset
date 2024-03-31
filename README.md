@@ -1,3 +1,3 @@
 <p align="center"> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/RSVP_Movies_official_logo.jpg" width="80px" height="80px">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*0l2af091BUHD8hOi" width="80px" height="80px">
 </p>

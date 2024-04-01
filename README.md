@@ -3,6 +3,6 @@
 </p>
 <h1 align="center"> Titanic Dataset  </h1>
 <h3 align="center">  Python  </h3>
-<h5 align="center">  <a href="https://www.concordia.ca/"> TechnoHacks EduTech </h5>
+<h5 align="center">  <a href="https://technohacks.co.in"> TechnoHacks EduTech </h5>
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/101878130/227229559-b0338a12-585c-4d9d-8996-a8e5a22a8d88.png" alt="https://user-images.githubusercontent.com/101878130/227229559-b0338a12-585c-4d9d-8996-a8e5a22a8d88.png">

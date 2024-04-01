@@ -17,3 +17,13 @@
    <h4>  Dataset Download Link: https://www.kaggle.com/c/titanic/data </h4> 
    
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+   ## :desktop_computer:	Installation
+      
+   ### :hammer_and_wrench: Requirement
+   
+   * Python Programming
+   * Jupyter Notebook
+   
+   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+    

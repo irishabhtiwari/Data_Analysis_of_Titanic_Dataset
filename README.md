@@ -24,6 +24,8 @@
    
    * Python Programming
    * Jupyter Notebook
-   
+
+   ## 📝 Description
+   <b>Steps to followed in this case study: <b>
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
     

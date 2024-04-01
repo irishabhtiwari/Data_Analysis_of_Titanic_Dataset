@@ -58,5 +58,21 @@ Utilize techniques like ROC curves and AUC scores to evaluate model robustness.
 Identify potential overfitting or underfitting issues and address them accordingly.
 
 
+<p align="center">
+    <img src="[https://thumbs.gfycat.com/CanineImpeccableAsiaticmouflon-size_restricted.gif](https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/t/5090b249e4b047ba54dfd258/1351660113175/TItanic-Survival-Infographic.jpg?format=1500w">
+
+
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+   <!-- CREDITS -->
+
+  <h2 id="credits"> :scroll: Credits</h2>
+  
+ Rishabh Tiwari
+ 
+ [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irishabhtiwari)
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/irishabhtiwari)
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsrishabh)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smsrishabh)
+
     

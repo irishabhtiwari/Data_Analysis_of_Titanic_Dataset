@@ -11,3 +11,9 @@
    </b> To develop a predictive model using the Titanic dataset from Kaggle in order to accurately forecast whether a passenger survived or not based on various attributes such as age, gender, ticket class, fare, and embarkation port. </b>
    
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+    ## ⏳ Dataset
+   
+   <h4> Dataset Download Link: https://www.kaggle.com/c/titanic/data </h4> 
+   
+   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

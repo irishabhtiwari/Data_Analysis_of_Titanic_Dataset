@@ -8,6 +8,6 @@
   <img src="https://raw.githubusercontent.com/Masterx-AI/Project_Titanic_Survival_Prediction_/main/titanic.jpg" alt="https://user-images.githubusercontent.com/101878130/227229559-b0338a12-585c-4d9d-8996-a8e5a22a8d88.png">
 
    <h2> ⚡️ Business Objectives</h2
-   </b> You are a data analyst and an SQL expert. You have to use SQL to analyse the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script given below. You have to write the solution code below every question. </b>
+   </b> To develop a predictive model using the Titanic dataset from Kaggle in order to accurately forecast whether a passenger survived or not based on various attributes such as age, gender, ticket class, fare, and embarkation port. </b>
    
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

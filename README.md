@@ -27,5 +27,30 @@
 
    ## 📝 Description
    <b>Steps to followed in this case study: <b>
+
+  Data Acquisition:
+
+Download the Titanic dataset from Kaggle or relevant sources.
+Ensure data integrity by checking for missing values, duplicates, and outliers.
+Exploratory Data Analysis (EDA):
+
+Perform descriptive statistics to understand the distribution of variables.
+Visualize data using histograms, box plots, and scatter plots to identify patterns and correlations.
+Analyze survival rates across different demographic and socio-economic groups.
+Feature Engineering:
+
+Create new features or transform existing ones to improve model performance.
+Handle categorical variables through techniques like one-hot encoding or label encoding.
+Normalize or scale numerical features to ensure they have a similar range.
+Model Selection and Training:
+
+Choose appropriate machine learning algorithms for classification tasks (e.g., logistic regression, decision trees, random forests, support vector machines).
+Split the dataset into training and testing sets to evaluate model performance.
+Train models using the training data and validate them using cross-validation techniques.
+Model Evaluation:
+
+Assess model performance metrics such as accuracy, precision, recall, and F1-score.
+Utilize techniques like ROC curves and AUC scores to evaluate model robustness.
+Identify potential overfitting or underfitting issues and address them accordingly.
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
     
